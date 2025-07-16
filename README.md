@@ -39,7 +39,7 @@
 
 ## 💻 What I Do
 
-I design and develop **secure**, **scalable**, and **high-performance** web applications with **Java**, **Spring Boot**, **React** or **MERN**.  
+I design and develop **secure**, **scalable**, and **high-performance** web applications with **Java**, **Spring Boot**, and **React**.  
 I’m committed to continuous learning and love turning **complex problems** into **simple, effective solutions**.
 
 ---
@@ -54,7 +54,7 @@ I’m committed to continuous learning and love turning **complex problems** int
 
 ## 🎯 Looking for Opportunities
 
-I'm currently **seeking full-time opportunities** as a **Full Stack Developer** specializing in **Java**, **Spring Boot**, and **React**.
+I'm currently **seeking full-time opportunities** as a **Full Stack Developer** specializing in **Java**, **Spring Boot**, **React** or **MERN**.
 
 If you're hiring or know of any roles that might be a fit, **I'd love to connect!**  
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jayvrat-d-a43946258/) or [email](mailto:jayvratdwivedi202@gmail.com).
