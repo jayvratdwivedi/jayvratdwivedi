@@ -40,7 +40,7 @@
 
 ## 💻 What I Do
 
-I design and develop **secure**, **scalable**, and **high-performance** web applications with **Java**, **Spring Boot**, and **React**.  
+I design and develop **secure**, **scalable**, and **high-performance** web applications with **Java**, **Spring Boot**, **React** or **MERN**.  
 I’m committed to continuous learning and love turning **complex problems** into **simple, effective solutions**.
 
 ---
