@@ -51,6 +51,14 @@ I’m committed to continuous learning and love turning **complex problems** int
 | :-------------: | :-------------: | :---------------: |
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) <br> ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <br> ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) <br> ![REST API](https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) <br> ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) <br> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white) <br> ![Mockito](https://img.shields.io/badge/Mockito-2A7B40?style=for-the-badge&logo=java&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br> ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
 
+---
+
+## 🎯 Looking for Opportunities
+
+I'm currently **seeking full-time opportunities** as a **Full Stack Developer** specializing in **Java**, **Spring Boot**, and **React**.  
+
+If you're hiring or know of any roles that might be a fit, **I'd love to connect!**  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jayvrat-d-a43946258/) or [email](mailto:jayvratdwivedi202@gmail.com).
 
 ---
 
