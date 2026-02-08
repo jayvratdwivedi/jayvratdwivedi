@@ -8,7 +8,7 @@
 <tr>
 <td width="60%">
 
-<h1>👋 Hi there! I'm <strong>Jayvrat kbkbkbkbkbkbkbkbk Dwivedi</strong></h1>
+<h1>👋 Hi there! I'm <strong>Jayvrat Dwivedi</strong></h1>
 
 🚀 <strong>Full Stack Developer</strong> specializing in <strong>Java</strong>, <strong>Spring Boot</strong>, and <strong>React.js</strong>.
 
